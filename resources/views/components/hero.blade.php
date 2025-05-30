@@ -8,9 +8,9 @@
             </div>
             <div class="lg:w-3/4 mt-6 sm:mt-12 px-4 lg:px-0">
                 <h2 class="text-lg lg:text-3xl font-semibold text-primary-content">
-                    Hello Buds, I am <span class="text-primary">Denny</span>
+                    Hello Buds, I am <span class="text-primary">Bagaskara Gita Dewanta</span>
                 </h2>
-                <p class="font-medium text-sm lg:text-xl text-gray">Full-Stack Developer</p>
+                <p class="font-medium text-sm lg:text-xl text-gray">Junior Full-Stack Developer</p>
                 <p class="py-6 text-sm lg:text-md">
                     I have extensive industry experience as a Full-Stack developer, proficient in constructing
                     websites and web applications. My expertise lies in PHP programming language, particularly
@@ -19,7 +19,7 @@
                 </p>
                 <div class="p-0 flex lg:justify-start justify-end">
                     <a class="btn btn-primary text-primary-content" target="_blank"
-                        href="https://drive.google.com/file/d/1QIRtqWlUxIu7vJtgII3db7vVomxXw4nR/view?usp=sharing">
+                        href="https://drive.google.com/file/d/1vOp22EuwPNUcTnjAfD7sBEr0Es7Yt2yw/view?usp=sharing">
                         Download Resume
                     </a>
                 </div>
@@ -28,13 +28,13 @@
         <div class="w-full flex flex-col text-end pb-6 pt-4 px-4">
             <div class="flex flex-row justify-end items-center justfiy-center gap-4">
                 <span class="uppercase text-primary-content mb-0">Find me on</span>
-                <a href="https://github.com/katzura1" target="_blank">
+                <a href="https://github.com/bagaskaragd" target="_blank">
                     <i class="fa-brands fa-github fa-xl text-primary"></i>
                 </a>
-                <a href="https://www.linkedin.com/in/denny-kz1" target="_blank">
+                <a href="https://www.linkedin.com/in/bagaskara-gd-a774b124b/" target="_blank">
                     <i class="fa-brands fa-linkedin fa-xl text-primary"></i>
                 </a>
-                <a href="https://wa.me/62895365843243" target="_blank">
+                <a href="https://wa.me/6288235660759" target="_blank">
                     <i class="fa-brands fa-whatsapp fa-xl text-primary"></i>
                 </a>
             </div>

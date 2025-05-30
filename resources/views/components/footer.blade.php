@@ -16,8 +16,8 @@
                 </g>
             </svg>',
             'title' => 'Phone',
-            'value' => '0895-3658-43243',
-            'link' => 'tel:0895365843243'
+            'value' => '0882-3566-0759',
+            'link' => 'tel:088235660759'
             ])
 
             @include('components.footer-item',[
@@ -41,8 +41,8 @@
             </svg>
             ',
             'title' => 'Email',
-            'value' => 'denny.az45@gmail.com',
-            'link' => 'mailto:denny.az45@gmail.com'
+            'value' => 'bagaskaragd@gmail.com',
+            'link' => 'mailto:bagaskaragd@gmail.com'
             ])
 
 

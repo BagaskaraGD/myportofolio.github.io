@@ -1,6 +1,6 @@
 <div class="navbar bg-base-100 sticky top-0 z-[100] text-primary-content">
     <div class="flex-1">
-        <a href="{{ url('') }}" class="btn btn-ghost normal-case text-xl">Denny</a>
+        <a href="{{ url('') }}" class="btn btn-ghost normal-case text-xl">Bagas</a>
     </div>
     <div class="flex-none">
         <ul class="menu menu-horizontal px-1 hidden lg:flex content-start items-center gap-4">

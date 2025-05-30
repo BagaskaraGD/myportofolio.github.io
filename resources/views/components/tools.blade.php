@@ -4,20 +4,21 @@
         <div class="flex-1 flex flex-col gap-2">
             <span class="text-md text-primary-content mb-2">Front-end (User Interface):</span>
             <span>HTML</span>
-            <span>CSS (Bootstrap, Tailwind CSS)</span>
+            <span>CSS (Bootstrap, Tailwind CSS, Vanilla CSS)</span>
             <span>JavaScript (Jquery or vanilla JS)</span>
             <span>Flutter (for mobile applications)</span>
         </div>
         <div class="flex-1 flex flex-col gap-2">
             <span class="text-md text-primary-content mb-2">Back-end (Server-side):</span>
-            <span>Laravel, CodeIgniter (PHP) for web applications</span>
-            <span>WordPress (PHP) for content-based websites or blog projects</span>
+            <span>Laravel (PHP) for web applications</span>
+            {{-- <span>WordPress (PHP) for content-based websites or blog projects</span> --}}
         </div>
         <div class="flex-1 flex flex-col gap-2">
             <span class="text-md text-primary-content mb-2">Database, Tools and Environment:</span>
-            <span>MySQL, SQL Server.</span>
+            <span>MySQL, SQL Server, Oracle.</span>
             <span>Git for version control</span>
             <span>Postman for API documentation and testing.</span>
+            <span>Ngrok for tunneling</span>
         </div>
     </div>
 </div>

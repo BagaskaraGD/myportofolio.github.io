@@ -15,11 +15,11 @@ class UserSeeder extends Seeder
      */
     public function run(): void
     {
-        if (!User::where('email', 'denny.az45@gmail.com')->first()) {
+        if (!User::where('email', 'bagaskaragd@gmail.com')->first()) {
             User::create([
-                'name' => 'Denny',
-                'email' => 'denny.az45@gmail.com',
-                'password' => Hash::make('Sayarudi12'),
+                'name' => 'Bagaskara Gita Dewanta',
+                'email' => 'bagaskaragd@gmail.com',
+                'password' => Hash::make('eko12345'),
                 'email_verified_at' => Carbon::now()
             ]);
         }
